@@ -1,0 +1,16 @@
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\Methods and classes.exe
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\Methods and classes.deps.json
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\Methods and classes.runtimeconfig.json
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\Methods and classes.runtimeconfig.dev.json
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\Methods and classes.dll
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\ref\Methods and classes.dll
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\bin\Debug\net5.0\Methods and classes.pdb
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.csproj.AssemblyReference.cache
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.AssemblyInfoInputs.cache
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.AssemblyInfo.cs
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.csproj.CoreCompileInputs.cache
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.dll
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\ref\Methods and classes.dll
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.pdb
+C:\Users\vijay\Desktop\Code saves\C#\Methods and classes\obj\Debug\net5.0\Methods and classes.genruntimeconfig.cache

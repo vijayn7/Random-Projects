@@ -1,0 +1,102 @@
+.body{
+    background-color:#d1ffeb;
+    color:#fac205;
+    text-align:center;
+    background-image:url(http://www.technocrazed.com/wp-content/uploads/2015/12/Blue-Wallpaper-For-Background-3.jpg);
+}
+.paragraph{
+    font-size:40px;
+}
+#favorite{
+    color:#cb751f;
+}
+#u-found-me-ewww{
+    font-family:comic;
+}
+li{
+    font-size:28px;
+}
+.guy{
+    color:purple;
+    font-size:15px;
+}
+.sun{
+    background-color:#CCFF99;
+}
+.sat{
+   background-color:#CCFF99; 
+}
+.table{
+    font-size:20px;
+}
+#id{
+    font-size:23px;
+}
+#b-day{
+    background-color:#0fb8f0;
+    color:black;
+}
+#hey{
+    color:black;
+}
+.img{
+    width:250px;
+}
+.home-bar{
+    list-style:none;
+    text-decoration:none;
+    display:inline-block;
+    float:left;
+    font-size:8px;
+    
+}
+.index-list{
+    list-style:none;
+}
+.home-bar-link{
+    list-style:none;
+    text-align:left;
+    list-style:none;
+    text-decoration:none;
+    display:inline-block;
+    float:left;
+    font-size:18px;
+    padding:0 20px;
+    display:block;
+}
+nav{
+    width:100%;
+    height:100px;
+    color:black;
+    margin:0;
+    padding:0;
+    line-height:100px;
+}
+.jobs-list{
+    list-style:none;
+}
+.home-bar-link:hover{
+    color:orange;
+    font-size:20px;
+}
+.mon{
+    background-color:#e3fd80;
+}
+.tues{
+    background-color:#e3fd80;
+}
+.weds{
+    background-color:#e3fd80;
+}
+.thur{
+    background-color:#e3fd80;
+}
+.fri{
+    background-color:#e3fd80;
+}
+#day{
+    background-color:#95fe63;    
+}
+#month{
+    background-color:#7bfdbc;
+}
